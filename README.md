@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="C:\Users\Chann\Downloads\powershel.png"/>
+</p>
 # ⚡ Creating Users in Active Directory with PowerShell
 
 This lab demonstrates how to automate the creation of user accounts in Active Directory using a PowerShell script. This process is critical for IT administrators managing large organizations and needing to onboard multiple users efficiently.
