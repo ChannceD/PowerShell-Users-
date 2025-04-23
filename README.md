@@ -8,7 +8,7 @@ In part 2 of my Active Directory Lab, I demonstrate how to automate the creation
 
 ---
 
-## 🖼️ Lab Overview (Screenshots + Descriptions)
+## Lab Overview (Screenshots + Descriptions)
 
 ### 1. Open PowerShell as Administrator on the Domain Controller
 ![PowerShell Admin](Creating%20Users%20with%20PowerShell/1.%20In%20Domain%20Controller%20open%20Powershell%20as%20admin%20.png)
